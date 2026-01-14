@@ -73,15 +73,3 @@ Focus on realistic defensive scenarios
 
 All scripts are provided for educational and demonstration purposes only.
 Review and test before using in production or sensitive environments.
-
-### 🎯 Career Alignment
-
-This repository supports preparation for:
-
-SOC Analyst (Tier 1 / Junior)
-
-Cybersecurity Analyst
-
-Linux Systems / Security Operations roles
-
-Blue-team and incident response pathways
