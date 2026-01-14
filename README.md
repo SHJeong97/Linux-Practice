@@ -1,44 +1,104 @@
-# 🛡️ Linux Practice for Cybersecurity
+🛡️ Linux, Shell & Bash for Cybersecurity
+📌 Overview
 
-## 📌 Overview
-This repository documents my **hands-on Linux practice for cybersecurity**, based on guided lab environments from **LabEx.io**.  
-The focus is on building **practical Linux skills essential for cybersecurity, SOC analysis, and system administration**, through real command-line usage rather than theory alone.
+This repository showcases my hands-on cybersecurity practice using Linux, Shell, and Bash scripting.
+It focuses on defensive security, system visibility, and automation techniques commonly used in Security Operations Centers (SOC) and blue-team environments.
 
-All work here represents **my own practice, notes, and outputs**, created while completing structured labs.
+The projects and scripts here reflect how lightweight Linux tools can support:
 
----
+Incident triage
 
-## 🎯 Objectives
-- Strengthen Linux command-line proficiency
-- Understand Linux from a **security and defensive perspective**
-- Practice tasks commonly required in **SOC, Blue Team, and Cybersecurity Analyst roles**
-- Build a documented portfolio of hands-on Linux experience
+Log analysis
 
----
+System hardening
 
-## 🧰 Skills Practiced
-- Linux filesystem navigation
-- File and directory permissions
-- User and group management
-- Process and service monitoring
-- Log analysis
-- Package management
-- Shell commands and scripting basics
-- System information and troubleshooting
-- Security-related Linux operations
+Operational monitoring
 
----
+Threat detection workflows
 
-## 🧪 Lab Topics Covered
-> Topics may expand as practice continues.
+🎯 Cybersecurity Learning Objectives
 
-- File system structure (`/etc`, `/var`, `/home`, `/proc`)
-- Permissions & ownership (`chmod`, `chown`, `umask`)
-- User & group management (`useradd`, `groupadd`, `sudo`)
-- Process management (`ps`, `top`, `kill`, `systemctl`)
-- Networking basics (`ip`, `ss`, `netstat`, `ping`)
-- Log files & monitoring (`/var/log`, `journalctl`)
-- Package management (`apt`, `yum`)
-- Searching & parsing (`grep`, `find`, `awk`, `sed`)
-- Disk usage & system info (`df`, `du`, `free`, `uname`)
-- Security best practices in Linux environments
+Analyze system and application logs using shell tools
+
+Automate repetitive security tasks with Bash
+
+Understand Linux permissions, users, and processes from a security perspective
+
+Detect suspicious behavior through command-line analysis
+
+Practice security-minded scripting aligned with real-world SOC workflows
+
+🛠️ Tools & Technologies
+
+Linux (Ubuntu / Debian-based systems)
+
+Bash / Shell scripting
+
+Core utilities: awk, sed, grep, cut, sort, uniq, find
+
+Process & network tools: ps, top, netstat, ss, lsof
+
+Git & GitHub
+
+Terminal-based analysis
+
+🔍 Security-Focused Use Cases
+
+📊 Log Analysis & Parsing
+Identify errors, anomalies, and unusual access patterns from structured logs.
+
+🔁 Security Automation
+Automate backups, permission checks, and system audits using Bash.
+
+🔐 Access & Permission Auditing
+Inspect file permissions, ownership, and user configurations for misconfigurations.
+
+🚨 Operational Security Monitoring
+Track running processes, network connections, and system behavior.
+
+Each folder contains:
+
+Scripts with comments
+
+Scenario context
+
+Security relevance notes
+
+🧪 Learning Sources & Attribution
+
+Some foundational exercises and labs in this repository are inspired by hands-on cybersecurity labs completed on LabEx.io.
+
+Labs are used for skill-building and practice only
+
+Scripts are independently written or modified to demonstrate understanding
+
+No proprietary lab solutions or restricted materials are shared
+
+This repository represents my applied learning and personal execution, not direct reproduction of platform content.
+
+📈 Progress & Methodology
+
+Incremental commits show skill progression
+
+Scripts evolve from basic commands to multi-step automation
+
+Emphasis on readability, comments, and security context
+
+Focus on practical defense-oriented scenarios
+
+⚠️ Disclaimer
+
+All scripts are provided for educational and demonstration purposes only.
+They should be tested and reviewed before use in production or sensitive environments.
+
+🎯 Career Alignment
+
+This repository supports preparation for:
+
+SOC Analyst (Tier 1 / Junior)
+
+Cybersecurity Analyst
+
+Linux Systems / Security Operations roles
+
+Blue-team and incident response pathways
