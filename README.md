@@ -57,6 +57,23 @@ Inspect file permissions, ownership, and user configurations for misconfiguratio
 🚨 Operational Security Monitoring
 Track running processes, network connections, and system behavior.
 
+📂 Repository Structure (Example)
+.
+├── log-analysis/
+│   ├── awk-log-parser.sh
+│   └── README.md
+│
+├── system-security/
+│   ├── permission-audit.sh
+│   └── user-review.sh
+│
+├── automation/
+│   ├── backup-and-verify.sh
+│   └── cron-monitor.sh
+│
+└── README.md
+
+
 Each folder contains:
 
 Scripts with comments
@@ -103,3 +120,4 @@ Cybersecurity Analyst
 Linux Systems / Security Operations roles
 
 Blue-team and incident response pathways
+      
