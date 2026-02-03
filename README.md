@@ -49,7 +49,7 @@ The projects and scripts here demonstrate how lightweight Linux tools can suppor
 
 ### 🧪 Learning Sources & Attribution
 
-Some foundational exercises and labs in this repository are inspired by hands-on cybersecurity labs completed on LabEx.io.
+Some foundational exercises and labs in this repository are inspired by hands-on cybersecurity labs completed on LabEx.io. tryhackme
 
 Labs are used strictly for learning and skill development
 
